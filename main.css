@@ -1,0 +1,45 @@
+body {
+    background-color: azure
+}
+h1 {
+    font-family: 'Lora', serif;
+
+    font-size:42px;
+  
+    font-weight:bolder;
+
+    text-align: center;
+  
+}
+.dragontext {
+
+    font-family: 'Chakra Petch', sans-serif;
+
+    font-size: 25px;
+
+    font-weight: bold;
+
+    line-height: 37px;
+
+    Float: center;
+
+}
+#Link:hover {
+    background-color:red;
+    font-size: 34px;
+
+}
+
+#Link2:focus {
+    background-color: blue;
+    
+}
+
+#Link3:active {
+    background-color: green;
+    
+}
+
+a:visited {
+    color: #00FF00;
+}
